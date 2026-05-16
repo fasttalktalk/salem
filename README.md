@@ -17,10 +17,7 @@ macOS (เพราะใช้ NSSpeechSynthesizer ผ่าน nsss driver)
 Python 3.7+
 เสียงภาษาไทย Kanya ติดตั้งใน System Preferences → Accessibility → Spoken Content → System Voice → Manage Voices → ดาวน์โหลด Kanya (Thai)
 
-📦 การติดตั้ง
-bash# Clone repo
-git clone https://github.com/yourusername/salem-voice-gm.git
-cd salem-voice-gm
+
 
 # ติดตั้ง dependency
 pip install pyttsx3
